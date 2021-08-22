@@ -1,0 +1,3 @@
+com\atm\atmloc\AtmlocApplicationTests.class
+com\atm\atmloc\service\impl\AtmDetailsServiceImplTest.class
+com\atm\atmloc\controller\AtmDetailsControllerTest.class

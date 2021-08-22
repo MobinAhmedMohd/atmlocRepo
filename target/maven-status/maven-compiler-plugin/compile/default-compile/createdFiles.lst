@@ -1,0 +1,16 @@
+com\atm\atmloc\AtmlocApplication.class
+com\atm\atmloc\repository\AtmOperatingDetailsRepository.class
+com\atm\atmloc\service\AtmDetailsService.class
+com\atm\atmloc\entity\AtmAddress.class
+com\atm\atmloc\entity\AtmDetails.class
+com\atm\atmloc\dto\AtmOperatingHoursDto.class
+com\atm\atmloc\serice\impl\AtmDetailsServiceImpl.class
+com\atm\atmloc\dto\AtmOperatingsDto.class
+com\atm\atmloc\entity\AtmOperatingDetails.class
+com\atm\atmloc\controller\AtmDetailsController.class
+com\atm\atmloc\repository\AtmAddressRepository.class
+com\atm\atmloc\utils\ConvertUtils.class
+com\atm\atmloc\dto\AtmAddressDto.class
+com\atm\atmloc\dto\AtmDetailsLocDTO.class
+com\atm\atmloc\dto\GeoLocationDto.class
+com\atm\atmloc\repository\AtmDetailsRepository.class
